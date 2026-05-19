@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+tmp/
+output/
+generated_images/
+config.json
